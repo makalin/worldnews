@@ -2,6 +2,8 @@
 
 A terminal-inspired, modern news aggregator built with React, TypeScript, Vite, and Tailwind CSS. WorldNews Terminal delivers a unique, retro command-line experience for browsing, searching, and filtering global news stories.
 
+**[🌐 Live Demo](https://makalin.github.io/worldnews/)**
+
 ## Features
 
 - **Terminal UI**: Authentic command-line look and feel, including ASCII art, system status, and prompt-style interactions.
